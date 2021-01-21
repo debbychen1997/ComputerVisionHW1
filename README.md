@@ -21,3 +21,7 @@ Sharpen kernel: <br/>
 0 -1 0 <br/><br/>
 <img src="https://github.com/debbychen1997/ComputerVisionHW1/blob/main/image/Sharpen.png" width="500px" > <br/>
 
+## Instruction:
+1.	在程式碼中輸入圖檔所在位置
+2.	在程式碼中輸入input text檔案所在位置
+3.	在text檔輸入奇數大小的矩陣，小數或是整數
