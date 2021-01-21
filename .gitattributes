@@ -1,0 +1,2 @@
+*.sh linguist-detectable=false
+*.sample linguist-detectable=false
